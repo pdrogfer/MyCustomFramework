@@ -9,6 +9,6 @@ import Foundation
 
 public struct CustomSDK {
     public static func doSomething() {
-        print("CustomSDK doing something...")
+        print("CustomSDK from external framework doing something...")
     }
 }
